@@ -1,0 +1,1 @@
+return Simplesqrt(lst[:int(len(lst)/2):], x)
